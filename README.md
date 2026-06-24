@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3701-compute-alternating-sum](https://github.com/Nihal-Tarwariya/DSA/tree/master/3701-compute-alternating-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/Nihal-Tarwariya/DSA/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
