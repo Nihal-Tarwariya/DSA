@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Nihal-Tarwariya/DSA/tree/master/0075-sort-colors) |
 | [3794-reverse-string-prefix](https://github.com/Nihal-Tarwariya/DSA/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Nihal-Tarwariya/DSA/tree/master/0075-sort-colors) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nihal-Tarwariya/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3701-compute-alternating-sum](https://github.com/Nihal-Tarwariya/DSA/tree/master/3701-compute-alternating-sum) |
 ## Simulation
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Nihal-Tarwariya/DSA/tree/master/0476-number-complement) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Nihal-Tarwariya/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
