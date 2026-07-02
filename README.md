@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Nihal-Tarwariya/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1688-count-of-matches-in-tournament](https://github.com/Nihal-Tarwariya/DSA/tree/master/1688-count-of-matches-in-tournament) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/Nihal-Tarwariya/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [3701-compute-alternating-sum](https://github.com/Nihal-Tarwariya/DSA/tree/master/3701-compute-alternating-sum) |
 ## Bit Manipulation
 |  |
