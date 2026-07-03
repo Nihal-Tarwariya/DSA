@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1528-shuffle-string](https://github.com/Nihal-Tarwariya/DSA/tree/master/1528-shuffle-string) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/Nihal-Tarwariya/DSA/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nihal-Tarwariya/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2325-decode-the-message](https://github.com/Nihal-Tarwariya/DSA/tree/master/2325-decode-the-message) |
 | [3794-reverse-string-prefix](https://github.com/Nihal-Tarwariya/DSA/tree/master/3794-reverse-string-prefix) |
