@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1528-shuffle-string](https://github.com/Nihal-Tarwariya/DSA/tree/master/1528-shuffle-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nihal-Tarwariya/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2325-decode-the-message](https://github.com/Nihal-Tarwariya/DSA/tree/master/2325-decode-the-message) |
 | [3794-reverse-string-prefix](https://github.com/Nihal-Tarwariya/DSA/tree/master/3794-reverse-string-prefix) |
 ## Array
 |  |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Nihal-Tarwariya/DSA/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [2325-decode-the-message](https://github.com/Nihal-Tarwariya/DSA/tree/master/2325-decode-the-message) |
 <!---LeetCode Topics End-->
