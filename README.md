@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nihal-Tarwariya/DSA/tree/master/0020-valid-parentheses) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Nihal-Tarwariya/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/Nihal-Tarwariya/DSA/tree/master/1528-shuffle-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Nihal-Tarwariya/DSA/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nihal-Tarwariya/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -47,9 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Nihal-Tarwariya/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2325-decode-the-message](https://github.com/Nihal-Tarwariya/DSA/tree/master/2325-decode-the-message) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nihal-Tarwariya/DSA/tree/master/0020-valid-parentheses) |
+## Counting
+|  |
+| ------- |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Nihal-Tarwariya/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 <!---LeetCode Topics End-->
