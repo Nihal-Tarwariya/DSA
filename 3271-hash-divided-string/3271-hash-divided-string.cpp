@@ -1,7 +1,7 @@
 class Solution {
 public:
     string stringHash(string s, int k) {
-        int n = s.size()/k,sum=0,count=0;
+        int sum=0,count=0;
         string result="";
         for(int i=0;i<s.size();i++){
             sum+=s[i]-'a';
