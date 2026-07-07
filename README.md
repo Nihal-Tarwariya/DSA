@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Nihal-Tarwariya/DSA/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Nihal-Tarwariya/DSA/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/Nihal-Tarwariya/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Nihal-Tarwariya/DSA/tree/master/0739-daily-temperatures) |
 | [1528-shuffle-string](https://github.com/Nihal-Tarwariya/DSA/tree/master/1528-shuffle-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nihal-Tarwariya/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -52,12 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Nihal-Tarwariya/DSA/tree/master/0496-next-greater-element-i) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Nihal-Tarwariya/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2325-decode-the-message](https://github.com/Nihal-Tarwariya/DSA/tree/master/2325-decode-the-message) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nihal-Tarwariya/DSA/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Nihal-Tarwariya/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Nihal-Tarwariya/DSA/tree/master/0739-daily-temperatures) |
 ## Counting
 |  |
@@ -66,5 +69,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Nihal-Tarwariya/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Nihal-Tarwariya/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
