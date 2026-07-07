@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Nihal-Tarwariya/DSA/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Nihal-Tarwariya/DSA/tree/master/0283-move-zeroes) |
+| [0739-daily-temperatures](https://github.com/Nihal-Tarwariya/DSA/tree/master/0739-daily-temperatures) |
 | [1528-shuffle-string](https://github.com/Nihal-Tarwariya/DSA/tree/master/1528-shuffle-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nihal-Tarwariya/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3701-compute-alternating-sum](https://github.com/Nihal-Tarwariya/DSA/tree/master/3701-compute-alternating-sum) |
@@ -57,8 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nihal-Tarwariya/DSA/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/Nihal-Tarwariya/DSA/tree/master/0739-daily-temperatures) |
 ## Counting
 |  |
 | ------- |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Nihal-Tarwariya/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Nihal-Tarwariya/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
