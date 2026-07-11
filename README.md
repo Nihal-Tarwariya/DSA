@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Nihal-Tarwariya/DSA/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Nihal-Tarwariya/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Nihal-Tarwariya/DSA/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Nihal-Tarwariya/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Nihal-Tarwariya/DSA/tree/master/0739-daily-temperatures) |
@@ -50,9 +51,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Nihal-Tarwariya/DSA/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Nihal-Tarwariya/DSA/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Nihal-Tarwariya/DSA/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Nihal-Tarwariya/DSA/tree/master/0496-next-greater-element-i) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Nihal-Tarwariya/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2325-decode-the-message](https://github.com/Nihal-Tarwariya/DSA/tree/master/2325-decode-the-message) |
