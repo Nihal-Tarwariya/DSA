@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Nihal-Tarwariya/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1688-count-of-matches-in-tournament](https://github.com/Nihal-Tarwariya/DSA/tree/master/1688-count-of-matches-in-tournament) |
+| [3536-maximum-product-of-two-digits](https://github.com/Nihal-Tarwariya/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nihal-Tarwariya/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nihal-Tarwariya/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nihal-Tarwariya/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Nihal-Tarwariya/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Nihal-Tarwariya/DSA/tree/master/0217-contains-duplicate) |
+| [3536-maximum-product-of-two-digits](https://github.com/Nihal-Tarwariya/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nihal-Tarwariya/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
