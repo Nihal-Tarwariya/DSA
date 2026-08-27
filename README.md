@@ -94,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nihal-Tarwariya/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nihal-Tarwariya/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Nihal-Tarwariya/DSA/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Nihal-Tarwariya/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
