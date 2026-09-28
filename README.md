@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Nihal-Tarwariya/DSA/tree/master/0204-count-primes) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Nihal-Tarwariya/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1688-count-of-matches-in-tournament](https://github.com/Nihal-Tarwariya/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nihal-Tarwariya/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Nihal-Tarwariya/DSA/tree/master/0075-sort-colors) |
+| [0204-count-primes](https://github.com/Nihal-Tarwariya/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Nihal-Tarwariya/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Nihal-Tarwariya/DSA/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Nihal-Tarwariya/DSA/tree/master/0496-next-greater-element-i) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Nihal-Tarwariya/DSA/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nihal-Tarwariya/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nihal-Tarwariya/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
@@ -131,4 +134,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Nihal-Tarwariya/DSA/tree/master/0796-rotate-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Nihal-Tarwariya/DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Nihal-Tarwariya/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Nihal-Tarwariya/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Nihal-Tarwariya/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
