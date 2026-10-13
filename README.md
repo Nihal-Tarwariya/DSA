@@ -150,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Nihal-Tarwariya/DSA/tree/master/0204-count-primes) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Nihal-Tarwariya/DSA/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
