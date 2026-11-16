@@ -2,19 +2,18 @@ CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
 BEGIN
   RETURN (
       # Write your MySQL query statement below.
-        CASE 
-            when (Select count(Distinct Salary) from Employee)<N then NULL
-            else (
-                    select salary from
-                    (select salary,
-                        row_Number() over(
-                            order by salary desc
-                        ) as row_num 
-                    from (
-                        select distinct salary from employee
-                    )as unq_sal 
-                    )as rnk where row_num = N
-            )
-        END
+        case 
+            when (select count(distinct salary) from employee)< n then Null
+            else 
+                ( select salary from 
+                (select salary,
+                    dense_rank() 
+                    over(order by salary desc)
+                    as rnk
+                    from employee) 
+                    as tb1
+                    where rnk = N limit 1 
+                )
+        end
   );
 END
