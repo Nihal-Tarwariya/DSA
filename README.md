@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Nihal-Tarwariya/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Nihal-Tarwariya/DSA/tree/master/0204-count-primes) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Nihal-Tarwariya/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1688-count-of-matches-in-tournament](https://github.com/Nihal-Tarwariya/DSA/tree/master/1688-count-of-matches-in-tournament) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Nihal-Tarwariya/DSA/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/Nihal-Tarwariya/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Nihal-Tarwariya/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Nihal-Tarwariya/DSA/tree/master/0344-reverse-string) |
 | [3794-reverse-string-prefix](https://github.com/Nihal-Tarwariya/DSA/tree/master/3794-reverse-string-prefix) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Nihal-Tarwariya/DSA/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/Nihal-Tarwariya/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Nihal-Tarwariya/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Nihal-Tarwariya/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Nihal-Tarwariya/DSA/tree/master/0283-move-zeroes) |
