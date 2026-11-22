@@ -7,7 +7,5 @@ class Solution(object):
         """
         n = len(nums)
         k=k%n
-        a1 = nums[:n-k]
-        a2 = nums[n-k:]
-        nums[:]=a2+a1
+        nums[:]=nums[n-k:]+nums[:n-k]
         
